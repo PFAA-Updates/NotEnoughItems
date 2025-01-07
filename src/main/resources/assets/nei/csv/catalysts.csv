@@ -1490,3 +1490,4 @@ techreborn.compat.nei.recipes.AssemblingMachineRecipeHandler,techreborn:assembly
 com.fiskmods.lightsabers.nei.LightsaberForgeRecipeHandler,lightsabers:lightsaber_forge_light,,lightsabers,TRUE,,,,,,,,,,,
 com.fiskmods.lightsabers.nei.DoubleLightsaberRecipeHandler,lightsabers:lightsaber_forge_dark,,lightsabers,TRUE,,,,,,,,,,,
 com.fiskmods.lightsabers.nei.DisassemblyRecipeHandler,lightsabers:disassembly_station,,lightsabers,TRUE,,,,,,,,,,,
+matteroverdrive.compat.modules.nei.CraftingHandlerInscriber,mo:inscriber,,mo,TRUE,,,,,,,,,,,
