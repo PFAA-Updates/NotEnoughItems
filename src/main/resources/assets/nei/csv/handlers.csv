@@ -651,3 +651,4 @@ com.fiskmods.lightsabers.nei.DisassemblyRecipeHandler,Advanced Lightsabers Mod,l
 matteroverdrive.compat.modules.nei.CraftingHandlerInscriber,Matter Overdrive,mo:inscriber,,mo,TRUE,,,,,,,,,,,
 straywolfe.cookingwithtfc.client.nei.CookingPotRecipeHandler,Cooking with TFC,cookingwithtfc:item.clayCookingPot:1,,cookingwithtfc,TRUE,,,,,,,,,,,
 straywolfe.cookingwithtfc.client.nei.ClayOvenRecipeHandler,Cooking with TFC,cookingwithtfc:item.clayOvenWall,,cookingwithtfc,TRUE,,,,,,,,,,,
+factorization.nei.RecipeMixer,Factorization,factorization:FzBlock:18,,factorization,TRUE,,,,,,,,,,,
