@@ -1495,3 +1495,4 @@ straywolfe.cookingwithtfc.client.nei.CookingPotRecipeHandler,cookingwithtfc:item
 straywolfe.cookingwithtfc.client.nei.ClayOvenRecipeHandler,cookingwithtfc:item.clayOvenWall,,cookingwithtfc,TRUE,,,,,,,,,,,
 factorization.nei.RecipeGrinder,factorization:diamond_cutting_head,,factorization,TRUE,,,,,,,,,,,
 factorization.nei.RecipeMixer,factorization:FzBlock:18,,factorization,TRUE,,,,,,,,,,,
+ua.pp.shurgent.tfctech.nei.WireDrawBenchRecipeHandler,tfctech:item.Wire Draw Bench,,tfctech,TRUE,,,,,,,,,,,
