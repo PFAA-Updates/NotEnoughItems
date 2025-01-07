@@ -649,3 +649,5 @@ com.fiskmods.lightsabers.nei.LightsaberForgeRecipeHandler,Advanced Lightsabers M
 com.fiskmods.lightsabers.nei.DoubleLightsaberRecipeHandler,Advanced Lightsabers Mod,lightsabers:lightsaber_forge_dark,,lightsabers,TRUE,,,,,,,,,,,
 com.fiskmods.lightsabers.nei.DisassemblyRecipeHandler,Advanced Lightsabers Mod,lightsabers:disassembly_station,,lightsabers,TRUE,,,,,,,,,,,
 matteroverdrive.compat.modules.nei.CraftingHandlerInscriber,Matter Overdrive,mo:inscriber,,mo,TRUE,,,,,,,,,,,
+straywolfe.cookingwithtfc.client.nei.CookingPotRecipeHandler,Cooking with TFC,cookingwithtfc:item.clayCookingPot:1,,cookingwithtfc,TRUE,,,,,,,,,,,
+straywolfe.cookingwithtfc.client.nei.ClayOvenRecipeHandler,Cooking with TFC,cookingwithtfc:item.clayOvenWall,,cookingwithtfc,TRUE,,,,,,,,,,,
