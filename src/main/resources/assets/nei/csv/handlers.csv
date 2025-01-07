@@ -653,3 +653,4 @@ straywolfe.cookingwithtfc.client.nei.CookingPotRecipeHandler,Cooking with TFC,co
 straywolfe.cookingwithtfc.client.nei.ClayOvenRecipeHandler,Cooking with TFC,cookingwithtfc:item.clayOvenWall,,cookingwithtfc,TRUE,,,,,,,,,,,
 factorization.nei.RecipeMixer,Factorization,factorization:FzBlock:18,,factorization,TRUE,,,,,,,,,,,
 ua.pp.shurgent.tfctech.nei.WireDrawBenchRecipeHandler,Shurgent's TFCTech Addon,tfctech:item.Wire Draw Bench,,tfctech,TRUE,,,,,,,,,,,
+mekanism.client.nei.ElectrolyticSeparatorRecipeHandler,Mekanism,Mekanism:MachineBlock2:4,,Mekanism,TRUE,,,,,,,,,,,
