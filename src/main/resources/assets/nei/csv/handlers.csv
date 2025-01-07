@@ -645,3 +645,6 @@ techreborn.compat.nei.recipes.BlastFurnaceRecipeHandler,TechReborn,techreborn:bl
 techreborn.compat.nei.ShapedRollingMachineHandler,TechReborn,techreborn:rollingmachine,,techreborn,TRUE,,,,,,,,,,,
 techreborn.compat.nei.ShapelessRollingMachineHandler,TechReborn,techreborn:rollingmachine,,techreborn,TRUE,,,,,,,,,,,
 techreborn.compat.nei.recipes.AssemblingMachineRecipeHandler,TechReborn,techreborn:assemblymachine,,techreborn,TRUE,,,,,,,,,,,
+com.fiskmods.lightsabers.nei.LightsaberForgeRecipeHandler,Advanced Lightsabers Mod,lightsabers:lightsaber_forge_light,,lightsabers,TRUE,,,,,,,,,,,
+com.fiskmods.lightsabers.nei.DoubleLightsaberRecipeHandler,Advanced Lightsabers Mod,lightsabers:lightsaber_forge_dark,,lightsabers,TRUE,,,,,,,,,,,
+com.fiskmods.lightsabers.nei.DisassemblyRecipeHandler,Advanced Lightsabers Mod,lightsabers:disassembly_station,,lightsabers,TRUE,,,,,,,,,,,
