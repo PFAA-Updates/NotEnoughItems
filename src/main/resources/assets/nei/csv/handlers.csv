@@ -603,3 +603,8 @@ ihl.nei_integration.VulcanizationExtrudingMoldRecipeHandler,IHL Tools & Machines
 ihl.nei_integration.CrucibleRecipeHandler,IHL Tools & Machines for IC2V2,ihl:crucible,,ihl,TRUE,,,,,,,,,,,
 ihl.nei_integration.FractionationColumnRecipeHandler,IHL Tools & Machines for IC2V2,ihl:fractionatorCover,,ihl,TRUE,,,,,,,,,,,
 ihl.nei_integration.IronWorkbenchRecipeHandler,IHL Tools & Machines for IC2V2,ihl:ironWorkbench,,ihl,TRUE,,,,,,,,,,,
+com.cout970.magneticraft.compat.nei.CraftingCrusher,Magneticraft,Magneticraft:crusher_control,,Magneticraft,TRUE,,,,,,,,,,,
+com.cout970.magneticraft.compat.nei.CraftingGrinder,Magneticraft,Magneticraft:grinder_control,,Magneticraft,TRUE,,,,,,,,,,,
+com.cout970.magneticraft.compat.nei.CraftingPolymerizer,Magneticraft,Magneticraft:polimerizer_control,,Magneticraft,TRUE,,,,,,,,,,,
+com.cout970.magneticraft.compat.nei.CraftingBiomassBurner,Magneticraft,Magneticraft:biomassburner,,Magneticraft,TRUE,,,,,,,,,,,
+com.cout970.magneticraft.compat.nei.CraftingSifter,Magneticraft,Magneticraft:sifter_control,,Magneticraft,TRUE,,,,,,,,,,,
